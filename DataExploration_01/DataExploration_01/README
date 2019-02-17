@@ -1,0 +1,9 @@
+
+------------------------------------------------------------------------------------------------------------------------
+We have a given a python file with example where the name of the file is DE_Anagram_02.ipynb
+I have entered the code to group the words based on the length of characters before finfing the anagrams
+-------------------------------------------------------------------------------------------------------------------------
+We have got the anagrams from words.txt file and code is written in SPYDER IDE for python which is available in Anaconda Navigator
+anagram.py ------------------------> Main Logic for finding out anagrams 
+------------------------------------------------------------------------------------------------------------------------
+AllAnagramsList.txt<---------- It contains the anagrams that we got after solving with python and I have divided the anagrams according to character length into sublists and I executed the code to find the length of each sublist that has only anagrams
